@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi, I'm Yusuf Yıldız
 
-<!--
-**yusufyildizz1/yusufyildizz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Electrical & Electronics Engineering student at Abdullah Gül University (Kayseri, Türkiye). I work on analog front-ends, DSP and communication systems — from hand calculation and LTspice simulation to bench measurement.
 
-Here are some ideas to get you started:
+- **Featured:** an LPC speech codec transmitted over a USRP software-defined radio at 915 MHz, with 51 of 52 frames reconstructed error-free
+- **Experience:** engineering intern at GİS Elektrik — electrical panel production and drawing (AutoCAD, EPLAN Electric P8)
+- **Currently learning:** Altium Designer, STM32
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Projects
+
+Full write-ups and reports: **[Engineering Portfolio →](https://github.com/yusufyildizz1/Yusuf-Yildiz-Portfolio)**
+
+| Project | Area |
+| :--- | :--- |
+| CAPSUL — LPC vocoder over SDR | DSP · RF communications |
+| SAPA — electronic stethoscope | Analog filters · MATLAB GUI |
+| Capacitive touch lock | Discrete analog design |
+| Two-axis laser scanner | Optics · Arduino servo control |
+| LithoSuite — lithography simulator | Semiconductor process · MATLAB |
+| Gate-level digital system | Discrete CMOS · LTspice |
+
+#### Tools
+
+MATLAB · LTspice · Arduino · Proteus · AutoCAD · EPLAN Electric P8
+
+#### Contact
+
+[yusufyldz.eee@gmail.com](mailto:yusufyldz.eee@gmail.com)
