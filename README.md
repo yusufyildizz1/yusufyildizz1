@@ -13,8 +13,8 @@ Full write-ups and reports: **[Engineering Portfolio →](https://github.com/yus
 | Project | Area |
 | :--- | :--- |
 | CAPSUL — LPC vocoder over SDR | DSP · RF communications |
-| SAPA — electronic stethoscope | Analog filters · MATLAB GUI |
 | Capacitive touch lock | Discrete analog design |
+| SAPA — electronic stethoscope | Analog filters · MATLAB GUI |
 | Two-axis laser scanner | Optics · Arduino servo control |
 | LithoSuite — lithography simulator | Semiconductor process · MATLAB |
 | Gate-level digital system | Discrete CMOS · LTspice |
